@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omegazero23
--i interested the IA with python and the mobile development with kotlin 
+-i interested the IA and software development
 -i'm a computer systems engineering 💻
 
 <!---
